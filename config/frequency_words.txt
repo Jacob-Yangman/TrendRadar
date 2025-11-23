@@ -14,6 +14,9 @@ Stable Diffusion
 Flux
 Hugging Face
 
+高质量数据集
+数据清洗
+OCR
 
 DeepSeek
 深度求索
