@@ -1,113 +1,167 @@
-胖东来
-于东来
+LLM
+ChatGPT
+GPT-4
+GPT-5
+OpenAI o1
+Sora
+Claude
+Anthropic
+Gemini
+DeepMind
+Llama
+Midjourney
+Stable Diffusion
+Flux
+Hugging Face
+
 
 DeepSeek
+深度求索
 梁文锋
 
+文心一言
+Ernie Bot
+通义千问
+Qwen
+
+Kimi
+月之暗面
+杨植麟
+
+豆包
+Doubao
+智谱AI
+ChatGLM
+混元
+Hunyuan
+
+零一万物
+Yi-Large
+李开复
+
+Minimax
+海螺AI
+
+百川智能
+王小川
+
+第四范式
+戴文渊
+
+Sam Altman
+Ilya Sutskever
+Jensen Huang
+黄仁勋
+Elon Musk
+马斯克
+Yann LeCun
+Geoffrey Hinton
+Andrew Ng
+吴恩达
+Andrej Karpathy
+Fei-Fei Li
+李飞飞
+何恺明
+
+
+
+
+
+
+
+OpenAI
+Google DeepMind
+Anthropic
+Meta AI
+Microsoft Azure AI
+NVIDIA
+英伟达
+AMD
+TSMC
+台积电
+Broadcom
+博通
+
+
+字节跳动
+ByteDance
 华为
+Huawei
+昇腾
+Ascend
 鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
-
+百度
+Baidu
+阿里
+Alibaba
+腾讯
+Tencent
+商汤
+SenseTime
+科大讯飞
+iFlytek
 大疆
-DJI
 
-宇树
-王兴兴
-
-智元
-灵犀
+具身智能
 稚晖君
 彭志辉
 
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
-人工智能
-
-自动驾驶
-
+Embodied AI
 机器人
+Robotics
+人形机器人
+Humanoid
+宇树科技
+Unitree
+智元机器人
+Agibot
+波士顿动力
+Boston Dynamics
+特斯拉
+Optimus
+Figure AI
+自动驾驶
+FSD
+Waymo
+萝卜快跑
+End-to-End
+端到端
 
-国产
-中国
+GPU
+H100
+B200
+Blackwell
+CUDA
+算力
+Compute Power
+光刻机 (ASML)
+AI芯片
+AI Chip
+NPU
+TPU
+数据中心
+Data Center
 
-美国
-日本
-韩国
 
-芯片
-光刻机
-
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
+大语言模型
+AGI
+通用人工智能
+Transformer
+Diffusion Model
+扩散模型
+RAG
+检索增强生成
+Agent
+智能体
+MoE
+混合专家模型
+Multimodal
+多模态
+Reinforcement Learning
+强化学习
+CoT
+思维链
+Prompt Engineering
+提示词
+Synthetic Data
+合成数据
